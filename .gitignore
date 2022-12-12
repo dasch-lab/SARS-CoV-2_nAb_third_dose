@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# xls files
+*.xls
+*.xlsx
+
+# Generic files
+*.DS_Store
